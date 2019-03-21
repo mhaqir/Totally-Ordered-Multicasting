@@ -1,0 +1,13 @@
+sleep,1
+Multicast,c2,command3
+sleep,10
+c2,c1,command8
+sleep,4
+Multicast,c2,command1
+Multicast,c2,command13
+sleep,3
+c2,c3,command14
+Multicast,c2,command4
+sleep,1
+Multicast,c2,command10
+c2,c4,command11
